@@ -10,28 +10,28 @@ function Footer() {
              <p>Airbnb Luxe</p>
           </div>
           <div className="space-y-4 text-gray-800">
-             <h5 className="font-bold">ABOUT</h5>
-             <p>How Airbnb works</p>
-             <p>Newsroom</p>
-             <p>Investors</p>
-             <p>Airbnb Plus</p>
-             <p>Airbnb Luxe</p>
+             <h5 className="font-bold">COMMUNITY</h5>
+             <p>Accessibility</p>
+             <p>This is not  a real site</p>
+             <p>Its a pretty Awesome Clone</p>
+             <p>Referral accepted </p>
+             <p>PBK</p>
           </div>
           <div className="space-y-4 text-gray-800">
-             <h5 className="font-bold">ABOUT</h5>
-             <p>How Airbnb works</p>
-             <p>Newsroom</p>
-             <p>Investors</p>
-             <p>Airbnb Plus</p>
-             <p>Airbnb Luxe</p>
+             <h5 className="font-bold">HOST</h5>
+             <p>BharathK</p>
+             <p>Built</p>
+             <p>ReactJs</p>
+             <p>Airbnb</p>
+             <p>NextJs</p>
           </div>
           <div className="space-y-4 text-gray-800">
-             <h5 className="font-bold">ABOUT</h5>
-             <p>How Airbnb works</p>
-             <p>Newsroom</p>
-             <p>Investors</p>
+             <h5 className="font-bold">Contact</h5>
+             <p>Airbnb</p>
+             <p>Clone</p>
+             <p>Progress soon</p>
              <p>Airbnb Plus</p>
-             <p>Airbnb Luxe</p>
+             <p>Airbnb</p>
           </div>
           
 
